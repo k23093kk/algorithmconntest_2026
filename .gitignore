@@ -1,0 +1,11 @@
+# 動作確認用のサンプル画像・入出力ファイル（主催者配布データ・生成物のためGit管理しない）
+000/
+111/
+222/
+333/
+input.csv
+output.csv
+*-output.JPG
+*-output.jpg
+
+__pycache__/
